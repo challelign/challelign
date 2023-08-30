@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=challelign&" alt="challelign" /></p>
 
-](https://github.com/challelign/challelign)https://github.com/challelign/challelign
+https://github.com/challelign/challelign
