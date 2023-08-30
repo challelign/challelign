@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Challelign Tilahun</h1>
 <h3 align="center">A passionate Full Stack Developer from Ethiopia</h3>
 
@@ -9,7 +10,8 @@
 
 - 💬 Ask me about **React ,Node Js , Mongoose and Laravel**
 
-- 📫 How to reach me **chalie2123@gmail.com**
+- 📫 📧 How to reach me **chalie2123@gmail.com*
+- 📫 📱 Call me +2519 18 27 03 70
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
