@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **chalie2123@gmail.com**
 
-<h3> My resecnt work </h3>
+<h3> My recent work </h3>
 [VIDEO TUTORIAL](https://www.youtube.com/watch?v=l7jXGYEiXVU)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
