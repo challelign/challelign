@@ -34,7 +34,7 @@ I enjoy solving complex problems, designing optimized systems, and learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" alt="Docker"/>
 
   <!-- FIXED PAYLOAD CMS -->
-  <img src="https://cdn.brandfetch.io/id52V4PuFJ/w/820/h/186/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1744090881486" width="70" height="70" alt="Payload CMS"/>
+  <img src="https://cdn.brandfetch.io/id52V4PuFJ/w/820/h/186/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1744090881486" width="150" height="150" alt="Payload CMS"/>
 </p>
 
 ---
