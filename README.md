@@ -1,72 +1,106 @@
 <h1 align="center">Hi 👋, I'm Challelign Tilahun</h1>
-<h3 align="center">Full Stack Developer | MERN | Next.js | TypeScript | Laravel</h3>
+<h3 align="center">Full Stack Developer | Next.js | React | Node | FastAPI | Laravel</h3>
+
+---
+
+### ✨ About Me
+I'm a passionate Full Stack Developer who loves building scalable, secure, and user-centered applications.  
+I specialize in modern JavaScript/TypeScript ecosystems and backend API development.  
+My focus is crafting clean architecture, high-quality code, and production-ready digital solutions.
+
+---
+
+### 🛠️ Languages & Tools (Large Icons)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=challelign&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+
+<!-- Next.js -->
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65" height="65" alt="Next.js"/>
+</a>
+
+<!-- React -->
+<a href="https://react.dev/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65" height="65" alt="React"/>
+</a>
+
+<!-- FastAPI -->
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="65" height="65" alt="FastAPI"/>
+</a>
+
+<!-- Laravel -->
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="65" height="65" alt="Laravel"/>
+</a>
+
+<!-- Mongoose -->
+<a href="https://mongoosejs.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mongodb.svg" width="65" height="65" alt="Mongoose (MongoDB)"/>
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65" height="65" alt="PostgreSQL"/>
+</a>
+
+<!-- Node.js -->
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js"/>
+</a>
+
+<!-- Express -->
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="65" height="65" alt="Express"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="65" height="65" alt="Docker"/>
+</a>
+
+<!-- MySQL -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="MySQL"/>
+</a>
+
+<!-- Prisma -->
+<a href="https://www.prisma.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="65" height="65" alt="Prisma ORM"/>
+</a>
+
+<!-- Payload CMS -->
+<a href="https://payloadcms.com/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/98657327?s=200&v=4" width="65" height="65" alt="Payload CMS"/>
+</a>
+
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌍 From **Ethiopia**
-- 🔥 Passionate about building scalable web applications, APIs, and modern UIs  
-- 💬 Ask me about **React, Next.js, Node.js, Mongoose, MySQL, Laravel**
-- 📫 Reach me at **chalie2123@gmail.com**
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=challelign&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=challelign&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=challelign&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-### 🏆 Achievements & Trophy
+### 🌍 Connect With Me  
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=challelign&theme=tokyonight&no-bg=true&margin-w=10" alt="trophy" />
+<a href="https://twitter.com/challelign1" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="45" />
+</a>
+<a href="https://linkedin.com/in/challelign-tilahun" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="35" width="45" />
+</a>
 </p>
 
 ---
 
-### 🎥 My Recent Work  
-🔗 **[Video Tutorial](https://www.youtube.com/watch?v=l7jXGYEiXVU)**
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://twitter.com/challelign1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/challelign-tilahun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-
-<a href="https://javascript.info/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-<a href="https://react.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
-
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=challelign&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=challelign&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=challelign&theme=tokyonight" />
-</p>
+### 📫 Contact  
+**Email:** `chalie2123@gmail.com`
