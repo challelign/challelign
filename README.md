@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Challelign Tilahun</h1>
+<h1 align="center">Hey 👋, I'm Challelign Tilahun</h1>
 <h3 align="center">Full Stack Developer | MERN | Next.js | FastAPI | Laravel | TypeScript</h3>
 
 <p align="center">
@@ -8,9 +8,7 @@
 ---
 
 ### 🚀 About Me  
-I am a passionate full-stack developer with 4+ years of experience building scalable, secure, and high-performance applications.  
-I focus on creating clean architectures, modern UI/UX, and production-grade backend systems.  
-I enjoy solving complex problems, designing optimized systems, and learning new technologies every day.
+I’m a full-stack developer with 4+ years of experience building fast, secure, and scalable applications. I specialize in clean architecture, modern UI/UX, and production-ready backend systems. I enjoy solving complex problems and continuously improving my skills through learning and building.
 
 ---
 
