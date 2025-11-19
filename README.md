@@ -41,8 +41,8 @@ I’m a full-stack developer with 4+ years of experience building fast, secure, 
 Here are some of my best and most advanced production-grade projects:
 
 ### 🔹 **Learning Management System (Advanced)**  
-A complete LMS with courses, quizzes, roles, permissions, analytics & payments.  
-**Tech:** Next.js, Node.js, PostgreSQL, Prisma, Tailwind
+A modern, full-featured Learning Management System (LMS) that allows students to browse, filter, and purchase courses seamlessly. It includes a student dashboard, teacher mode for creating courses and chapters, and intuitive progress tracking with chapters marked as completed or uncompleted. The system supports rich media content, including thumbnails, attachments, and videos, with video processing and HLS playback powered by Mux. Chapter descriptions use a rich text editor, while course and chapter management allows easy reordering with drag-and-drop. Built with Next.js and React for the frontend, Node.js backend, Prisma ORM with MySQL, and authentication handled by Clerk. Payments are integrated via Stripe, and uploads are managed using UploadThing, providing a scalable, secure, and modern e-learning platform.
+**Tech:** Next.js, Node.js,Mux, MySql, Prisma, Tailwind and more
 
 ### 🔹 **E-Commerce Platform (Full-Stack)**  
 Modern e-commerce with cart, checkout, payments, admin dashboard & order tracking.  
