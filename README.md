@@ -22,13 +22,22 @@ I enjoy solving complex problems, designing optimized systems, and learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="70" height="70" alt="Express"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="70" height="70" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="70" height="70" alt="Laravel"/>
+  
+  <!-- FIXED LARAVEL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="70" height="70" alt="Laravel"/>
+  
+  <!-- MONGO / MONGOOSE -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" height="70" alt="Mongoose"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" height="70" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/prisma/press-kit/main/Assets/Prisma-LightLogo.svg" width="70" height="70" alt="Prisma ORM"/>
-  <img src="https://payloadcms.com/images/payload/payload-square-dark.svg" width="70" height="70" alt="Payload CMS"/>
+
+  <!-- FIXED PRISMA -->
+  <img src="https://raw.githubusercontent.com/prisma/press-kit/main/Assets/Prisma-LightSymbol.png" width="70" height="70" alt="Prisma ORM"/>
+
+  <!-- FIXED PAYLOAD CMS -->
+  <img src="https://payloadcms.com/images/brand/payload-logo-dark.svg" width="70" height="70" alt="Payload CMS"/>
 </p>
 
 ---
