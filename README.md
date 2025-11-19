@@ -33,11 +33,8 @@ I enjoy solving complex problems, designing optimized systems, and learning new 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="70" height="70" alt="Docker"/>
 
-  <!-- FIXED PRISMA -->
-  <img src="https://raw.githubusercontent.com/prisma/press-kit/main/Assets/Prisma-LightSymbol.png" width="70" height="70" alt="Prisma ORM"/>
-
   <!-- FIXED PAYLOAD CMS -->
-  <img src="https://payloadcms.com/images/brand/payload-logo-dark.svg" width="70" height="70" alt="Payload CMS"/>
+  <img src="[https://payloadcms.com/images/brand/payload-logo-dark.svg](https://cdn.brandfetch.io/id52V4PuFJ/w/820/h/186/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1744090881486)" width="70" height="70" alt="Payload CMS"/>
 </p>
 
 ---
